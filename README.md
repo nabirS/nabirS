@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nabirS
 - 👀 I’m interested in Web Development and Blockchain
-- 🌱 I’m currently learning Web developing and Blockchain
-- 💞️ I’m looking to collaborate on Blockchain field
+- 🌱 I’m currently learning Web development.
+- 💞️ I’m looking to collaborate in the Data analyst field.
 - 📫 If you want to communicate with me, don't hesitate to throw me an email to nabirhossain15@gmail.com
 
 <!---
